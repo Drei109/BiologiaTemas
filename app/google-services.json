@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "658633696863",
+    "firebase_url": "https://biologiatemas-8422b.firebaseio.com",
+    "project_id": "biologiatemas-8422b",
+    "storage_bucket": "biologiatemas-8422b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658633696863:android:e04abdf6f7df6996",
+        "android_client_info": {
+          "package_name": "com.biologia.temas.biologiatemas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658633696863-ebumali5lfkjuk0fn5m9bsdijuamkur9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biologia.temas.biologiatemas",
+            "certificate_hash": "9bbef9b03a244ad2156b815e441e0b873462594a"
+          }
+        },
+        {
+          "client_id": "658633696863-skmrlorudehk79e32fjmc4lumu8tbi99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIRBbFcEkB--mOOvsIQJRx4z2Fo8GvzZA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658633696863-skmrlorudehk79e32fjmc4lumu8tbi99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

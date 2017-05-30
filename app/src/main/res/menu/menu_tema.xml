@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/mnuEditar"
+        android:orderInCategory="100"
+        android:title="Editar" />
+
+    <item
+        android:id="@+id/mnuAgregarHecho"
+        android:orderInCategory="101"
+        android:title="Agregar hecho" />
+</menu>
